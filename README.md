@@ -7,7 +7,8 @@
 5. As a user, I need to be able to assign a task to myself
 6. As a user, I need to be able to assign a task to someone else
 7. As a user, I need to be able to be able to see my assigned tasks
-8. As a user, I need to be able to accept or reject a task
+8. As a user, I need to be able to accept or decline a task
+9. As a user, I need to recieve notification of whether my task was accepted or declined
 
 
 # Domain Model

@@ -1,12 +1,14 @@
-#User Stories for my lending and borrowing app
+#User Stories for My Task Giving App
 
 1. As a user, I need to create a profile
-2. As a user, I need to be able to list things that I have and am willing to lend
-3. As a user, I need to be able to list things that I want to borrow
-4. As a borrower, I need to receive notification when a potential match occurs
-5. As a borrower, I need to be able to view the potential match
-6. As a borrower, I need to confirm / decline the potential match
-7. As a borrower, I need to be able to communicate with a lender once the match has happened (and vice versa)
+2. As a user, I need to be able to make a task
+3. As a user, I need to be able to specify a due date for a task
+4. As a user, I need to be able to specify a due time for a task
+5. As a user, I need to be able to assign a task to myself
+6. As a user, I need to be able to assign a task to someone else
+7. As a user, I need to be able to be able to see my assigned tasks
+8. As a user, I need to be able to accept or reject a task
+
 
 # Domain Model
 
